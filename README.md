@@ -15,6 +15,8 @@
 - Spotify song request on redemption
 - Sound play on redemptions
 - more coming soon!
+- more coming soon!
+
 
 
 ## 📷 Images
